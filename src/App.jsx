@@ -24,7 +24,7 @@ const localTrackingDatabase = {
       vin: '5 vehicles in one shipment',
       origin: 'Austin, TX',
       destination: 'Milan, Italy',
-      transportStatus: 2,
+      transportStatus: 4,
       eta: 'Today, 4:30 PM',
       color: 'Stainless steel',
       updated: '12 min ago',
